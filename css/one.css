@@ -1,0 +1,50 @@
+.a1
+{
+background-color: white;
+font-size: 25px;
+ }
+
+.menu
+{
+  padding-right:60px;
+}
+
+.menu:hover{
+  background-color:white;
+}
+
+.a2
+{
+	font-size: 30px;
+  background-image:url(../images/m.jpg);
+  height: 500px;
+}
+
+button
+{
+  background-color:red;
+  color: white;
+ padding: 14px 20px;
+  border: none;
+  align-items: center;
+ border-radius: 30px;
+ color: black;
+}
+
+button:hover{
+	background-color:white;
+}
+
+.grid-container
+{
+  display:grid;
+  background-color: #990a20;
+  grid-template-columns: 50px;
+  text-align: center;
+    color: white;
+  padding-left: 300px;
+}
+
+img{
+  padding-left: 262px;
+}
